@@ -1,0 +1,24 @@
+Feedback for mgr040
+
+Resultat: Godkjent
+
+Generelt: En veldig sterk oppgave som bærer preg av grundig arbeid. Se kommentarer under til hver enkel oppgave. 
+
+Oppgave 1.
+Veldig bra! God bruk av stacks, takler også multi-digit input.
+
+Oppgave 2.
+Meget bra, både implementasjon og analyse.
+
+Oppgave 3.
+Veldig bra! Du besvarer alle spørsmål og begrunner kjøretid ut fra F(N). Du viser at du har skjønt sammenhengen mellom
+LinearRegression og kjøretid for algoritmen og konkluderer korrekt. Flott at du nevner at a ~ 1.2 tilsvarer lineæritmisk kjøretid.
+
+Oppgave 4.
+Også her svarer du på alle spørsmål og trekker riktige konklusjoner. Bra at du nevner at a burde vært ~ 1, jeg vet heller
+ ikke hvorfor vi får lavere, men det er ikke din feil. Du viser god forståelse.
+
+Oppgave 5.
+Relevant oppgave og veldig godt svar.
+
+
